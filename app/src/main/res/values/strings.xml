@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">RollOut Cancer</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="existingUser">Already a Member ? Sign in here.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_privacy">Privacy Policy</string>
+    <string name="email">Email </string>
+    <string name="passowrd">Password</string>
+    <string name="Login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Cancer Servive Provider</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="cancer_signs">Signs of Cancer</string>
+    <string name="menu_slideshow">Types of Cancer</string>
+    <string name="menu_tools">Stages of Cancer</string>
+    <string name="menu_share">Causes of Cancer</string>
+    <string name="menu_send">Cancer Centers</string>
+    <string name="ask">Help</string>
+    <string name="types_of_cancer">Types of Cancer</string>
+    <string name="stages_of_cancer">Stages of Cancer</string>
+    <string name="donate">Donate</string>
+    <string name="forum">Forum</string>
+    <string name="diagnosis">Cervical Cancer Diagnosis</string>
+    <string name="question">Question 1. How is the first president of Nigeria?</string>
+    <string name="next_questions"> Next Question</string>
+    <string name="previous_questions"> Previous Question</string>
+    <string name="action_logout">Logout</string>
+    <string name="cancer_overview">Cervical cancer is a type of cancer that occurs in the cells of the cervix — the lower part of the uterus that connects to the vagina.
+Various strains of the human papillomavirus (HPV), a sexually transmitted infection, play a role in causing most cervical cancer.
+When exposed to HPV, the body\'s immune system typically prevents the virus from doing harm. In a small percentage of people, however, the virus survives for years, contributing to the process that causes some cervical cells to become cancer cells.
+You can reduce your risk of developing cervical cancer by having screening tests and receiving a vaccine that protects against HPV infection.</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="overview">Overview</string>
+
+    <string name="slide_1_title">What is Cevical Cancer</string>
+    <string name="slide_1_desc">Cervical cancer is a type of cancer that occurs in the cells of the cervix — the lower part of the uterus that connects to the vagina.
+Various strains of the human papillomavirus (HPV), a sexually transmitted infection, play a role in causing most cervical cancer.</string>
+
+    <string name="slide_2_title">Types of Cervical Cancer</string>
+    <string name="slide_2_desc">Cervical cancer is divided into two main types:
+        squamous cell carcinoma and adenocarcinoma.
+        Each is distinguished by the appearance of cells under a microscope:
+        Squamous cell carcinomas begin in the thin, flat cells that line the bottom of the cervix.</string>
+
+    <string name="slide_3_title">Types of cervical cancer</string>
+    <string name="slide_3_desc">Cervical cancers and cervical pre-cancers are classified by how they look under a microscope.
+        The main types of cervical cancers are squamous cell carcinoma and adenocarcinoma.</string>
+
+    <string name="slide_4_title">Cancer Centers in Kenya</string>
+    <string name="slide_4_desc">Hospitals that offer cancer treatment in Kenya.
+        Aga Khan University Hospital, Limuru Road, Parklands, Nairobi, +254 (0) 20 366 2037/2644, +254 (0) 732 688 911, Provides detection and screening programmes, specialised diagnostics,
+        chemotherapy and radiotherapy treatment, and palliative and rehabilitation programmes.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>

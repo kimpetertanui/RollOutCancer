@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145229046861",
+    "firebase_url": "https://ecancer-b7ea6.firebaseio.com",
+    "project_id": "ecancer-b7ea6",
+    "storage_bucket": "ecancer-b7ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145229046861:android:565a10c364a94b19",
+        "android_client_info": {
+          "package_name": "com.peterkimeli.ecancer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145229046861-mh27fkiqo4v7sglf0nctalks6pkijpkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peterkimeli.ecancer",
+            "certificate_hash": "a46d2c4c3da6b22cfa794c108cbd4d3e2cec4c5d"
+          }
+        },
+        {
+          "client_id": "145229046861-kh30ft5dhb1r3cuet2k5dnifcjqlude3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXriZjF62rTYl_3Vj_QnMcJ_Q6PeUAP0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145229046861-kh30ft5dhb1r3cuet2k5dnifcjqlude3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
